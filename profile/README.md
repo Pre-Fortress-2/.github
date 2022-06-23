@@ -4,7 +4,7 @@
 
 - [Pre-Fortress Website](https://prefortress.com)
 - [Public PF2 0.6 Game Repo](https://gitlab.com/CryptoGibus/pf2)
-- [Public PF2 0.6 Source Code](https://gitlab.com/CryptoGibus/pf2-sources)
+- [Public PF2 0.6 Source Code](https://gitlab.com/CryptoGibus/pf2-src)
 - Contact staff at dani@prefortress.com
 
 ---
