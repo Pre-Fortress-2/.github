@@ -5,7 +5,7 @@
 - [Pre-Fortress Website](https://prefortress.com)
 - [Public PF2 0.6 Game Repo](https://gitlab.com/CryptoGibus/pf2)
 - [Public PF2 0.6 Source Code](https://gitlab.com/CryptoGibus/pf2-src)
-- Contact staff at dani@prefortress.com
+- Contact staff at staff@prefortress.com
 - [How to migrate from GitLab to GitHub](https://gist.github.com/dangreene0/c49040df542be9882aae538af1345649)
 
 ---
