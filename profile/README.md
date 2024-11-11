@@ -5,7 +5,7 @@
 - [Pre-Fortress Website](https://prefortress.com)
 - [Public PF2 Game Repo](https://github.com/Pre-Fortress-2/pf2/releases/latest)
 - Contact staff at staff@prefortress.com
-- [How to migrate from GitLab to GitHub](https://gist.github.com/dangreene0/c49040df542be9882aae538af1345649)
+- [How to migrate from GitLab to GitHub](https://gist.github.com/sour-dani/c49040df542be9882aae538af1345649)
 
 ---
-[![Make your own SourceMod](https://img.shields.io/static/v1?label=&message=Make%20Your%20Own%20Source%20Mods&color=black&logo=steam&logoColor=FFFFFF)](https://github.com/Nbc66/source-sdk-2013-ce) [![VPacker](https://img.shields.io/badge/Pack%20your%20files-VPacker-blue)](https://www.moddb.com/engines/source/downloads/vpacker)
+[![Make your own Source Mod](https://img.shields.io/static/v1?label=&message=Make%20your%20own%20Source%20Mod&color=black&logo=steam&logoColor=FFFFFF)](https://github.com/Nbc66/source-sdk-2013-ce) [![VPacker](https://img.shields.io/badge/Pack%20your%20files-VPKEdit-blue)](https://github.com/craftablescience/VPKEdit/releases)
