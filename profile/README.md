@@ -8,4 +8,4 @@
 - [How to migrate from GitLab to GitHub](https://gist.github.com/sour-dani/c49040df542be9882aae538af1345649)
 
 ---
-[![Make your own Source Mod](https://img.shields.io/static/v1?label=&message=Make%20your%20own%20Source%20Mod&color=black&logo=steam&logoColor=FFFFFF)](https://github.com/Nbc66/source-sdk-2013-ce) [![VPacker](https://img.shields.io/badge/Pack%20your%20files-VPKEdit-blue)](https://github.com/craftablescience/VPKEdit/releases)
+[![Make your own TF2 Source Mod](https://img.shields.io/static/v1?label=&message=Make%20your%20own%20Source%20Mod&color=black&logo=steam&logoColor=FFFFFF)](https://github.com/ValveSoftware/source-sdk-2013) [![VPacker](https://img.shields.io/badge/Pack%20your%20files-VPKEdit-blue)](https://github.com/craftablescience/VPKEdit/releases)
