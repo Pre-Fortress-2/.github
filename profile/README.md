@@ -4,7 +4,7 @@
 
 - [Pre-Fortress Website](https://prefortress.com)
 - [Public PF2 Game Repo](https://github.com/Pre-Fortress-2/pf2/releases/latest)
-- Contact staff at staff@prefortress.com
+- Contact: staff@prefortress.com
 - [How to migrate from GitLab to GitHub](https://gist.github.com/sour-dani/c49040df542be9882aae538af1345649)
 
 ---
