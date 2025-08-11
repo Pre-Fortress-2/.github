@@ -2,9 +2,9 @@
 ---
 [![PF2 Discord](https://img.shields.io/discord/509270384659398666?label=PF2%20Discord)](https://discord.gg/ra68rM5nuE)
 
-- [Pre-Fortress Website](https://prefortress.com)
-- [Public PF2 Game Repo](https://github.com/Pre-Fortress-2/pf2/releases/latest)
 - Contact: staff@prefortress.com
+- [Pre-Fortress 2 Website](https://prefortress.com)
+- [Public PF2 Game Repo](https://github.com/Pre-Fortress-2/pf2/releases/latest)
 - [How to migrate from GitLab to GitHub](https://gist.github.com/sour-dani/c49040df542be9882aae538af1345649)
 
 ---
